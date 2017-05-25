@@ -1,9 +1,9 @@
 # dataprocess
 
-##Usage:
+## Usage:
 ```mvn clean verify exec:java -Dexec.args=C:\SPY.csv```
 
-###Results
+### Results
 - rundir \ ```future```  folder with iteration files
 - ```past.json``` at rundir
  
